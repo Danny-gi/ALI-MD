@@ -7,25 +7,25 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {pXtRmATR#aHAgQtwR4Q8FbZ5APHsxwyXsQBqrP5mdS5XGhKG7e7w
+    "SESSION_ID": 
       "description": "pXtRmATR#aHAgQtwR4Q8FbZ5APHsxwyXsQBqrP5mdS5XGhKG7e7w",
       "required": true,
-      "value":pXtRmATR#aHAgQtwR4Q8FbZ5APHsxwyXsQBqrP5mdS5XGhKG7e7w""
+      "value":
     },  
     
-    "STICKER_NAME": {🥰
+    "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
       "value": "𓆩ု᪳𝐀𝐋𝐈-𝐌𝐃ှ᪳𓆪"
     }, 
       
-    "PREFIX": {.
+    "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
       "value": "."
     },
     
-    "MODE": {private 
+    "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
       "value": "private"
@@ -33,106 +33,106 @@
     },
     
     
-    "ALWAYS_ONLINE": {true
+    "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
       "value": "true"  
     },    
   
-    "AUTO_VOICE": {true
+    "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
       "required": false,
       "value": "false"
     }, 
 
-    "AUTO_REPLY": {false
+    "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": false,
       "value": "false"
     }, 
 
-    "AUTO_STICKER": {false
+    "AUTO_STICKER": {
       "description": "Make it true if you want automatic sticker.",
       "required": false,
       "value": "false"
     }, 
 
 
-    "AUTO_STATUS_SEEN": {true
+    "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
       "required": true,
       "value": "true"
     }, 
 
-    "AUTO_STATUS_REACT": {true
+    "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",
       "required": true,
       "value": "true"
     }, 
 
-    "AUTO_STATUS_REPLY": {false
+    "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
       "required": true,
       "value": "false"
     }, 
 
-    "AUTO_STATUS_MSG": {true
+    "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
       "value": "*SEEN YOUR STATUS JUST NOW ALI-MD 🍒*"
    
      }, 
 
-    "BOT_NAME": {danny
+    "BOT_NAME": {
       "description": "danny.",
       "required": false,
       "value": "𓆩ု᪳𝐀𝐋𝐈-𝐌𝐃ှ᪳𓆪"
 
       }, 
     
-    "ALIVE_IMG": {true
+    "ALIVE_IMG": {
       "description": "put here the bot Menu url if you don't have you can use this public url.",
       "required": true,
       "value": "https://cdn.ironman.my.id/i/2du3i5.jpg" 
       },
 
-    "DELETE_LINK": {false
+    "DELETE_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": false,
       "value": "false"
     }, 
     
-    "ANTI_LINK_KICK": {false
+    "ANTI_LINK_KICK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": false,
       "value": "false"
     }, 
     
-    "ANTI_BAD_WORD": {false
+    "ANTI_BAD_WORD": {
       "description": "Make it true if you want bot auto delete bad words.",
       "required": false,
       "value": "false"
     }, 
     
-    "AUTO_RECORDING": {true
+    "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
       "required": false,
       "value": "false"
     },
 
-    "AUTO_TYPING": {false
+    "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": false,
       "value": "false"
     },
 
-    "AUTO_REACT": {true
+    "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
       "required": false,
       "value": "true"
     },
     
-    "CUSTOM_REACT": {false
+    "CUSTOM_REACT": {
       "description": "Make it true if you want custom reactions.",
       "required": false,
       "value": "false"
